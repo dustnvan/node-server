@@ -1,2 +1,2 @@
 # node-server
-Learning about Node JS
+Testing backend development with nodejs and express.
